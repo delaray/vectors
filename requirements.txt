@@ -1,0 +1,9 @@
+pandas
+openpyxl
+matplotlib
+skikit-learn
+networkx
+openai
+weaviate-client
+tiktoken
+utils

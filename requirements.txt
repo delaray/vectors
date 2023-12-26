@@ -7,3 +7,4 @@ openai
 weaviate-client
 tiktoken
 utils
+docarray
